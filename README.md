@@ -41,12 +41,12 @@
 
 ## 🆕 Latest GitHub Repositories
 <!-- GITHUB:START -->
-[![CodeMind](https://github-readme-stats.vercel.app/api/pin/?username=badhusha618&repo=CodeMind&theme=tokyonight)](https://github.com/badhusha618/CodeMind)
-[![DevOps-monitor](https://github-readme-stats.vercel.app/api/pin/?username=badhusha618&repo=DevOps-monitor&theme=tokyonight)](https://github.com/badhusha618/DevOps-monitor)
-[![FoodFriend](https://github-readme-stats.vercel.app/api/pin/?username=badhusha618&repo=FoodFriend&theme=tokyonight)](https://github.com/badhusha618/FoodFriend)
-[![MergeEats](https://github-readme-stats.vercel.app/api/pin/?username=badhusha618&repo=MergeEats&theme=tokyonight)](https://github.com/badhusha618/MergeEats)
-[![pick-food-spot](https://github-readme-stats.vercel.app/api/pin/?username=badhusha618&repo=pick-food-spot&theme=tokyonight)](https://github.com/badhusha618/pick-food-spot)
-[![SmartOutlet-POS](https://github-readme-stats.vercel.app/api/pin/?username=badhusha618&repo=SmartOutlet-POS&theme=tokyonight)](https://github.com/badhusha618/SmartOutlet-POS)
+[![CodeMind](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=CodeMind&theme=tokyonight)](https://github.com/badhusha-dev/CodeMind)
+[![DevOps-monitor](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=DevOps-monitor&theme=tokyonight)](https://github.com/badhusha-dev/DevOps-monitor)
+[![FoodFriend](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=FoodFriend&theme=tokyonight)](https://github.com/badhusha-dev/FoodFriend)
+[![MergeEats](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=MergeEats&theme=tokyonight)](https://github.com/badhusha-dev/MergeEats)
+[![pick-food-spot](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=pick-food-spot&theme=tokyonight)](https://github.com/badhusha-dev/pick-food-spot)
+[![SmartOutlet-POS](https://github-readme-stats.vercel.app/api/pin/?username=badhusha-dev&repo=SmartOutlet-POS&theme=tokyonight)](https://github.com/badhusha-dev/SmartOutlet-POS)
 <!-- GITHUB:END -->
 
 ---
@@ -82,4 +82,5 @@
 
 ---
 ⭐ *Always open to collaborating on interesting projects and innovative ideas!*
+
 
