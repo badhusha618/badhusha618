@@ -1,11 +1,11 @@
-![GitHub Banner](https://raw.githubusercontent.com/badhusha618/badhusha618/main/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/badhusha-dev/badhusha-dev/main/banner.png)
 
 # 👋 Hi, I'm Shahul Hameed Badhusha Ansari
 
 💻 **Java Backend Developer | Spring Boot | Microservices | REST API Specialist**  
 🚀 Passionate about building **scalable, secure, and high-performance enterprise applications**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=badhusha618&color=brightgreen)  
+![Profile Views](https://komarev.com/ghpvc/?username=badhusha-dev&color=brightgreen)  
 
 ---
 
@@ -52,14 +52,14 @@
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badhusha618&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badhusha618&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badhusha618&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badhusha-dev&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badhusha-dev&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badhusha-dev&theme=tokyonight)  
 
 ---
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=badhusha618&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=badhusha-dev&theme=tokyo-night)
 
 ---
 
@@ -82,3 +82,4 @@
 
 ---
 ⭐ *Always open to collaborating on interesting projects and innovative ideas!*
+
